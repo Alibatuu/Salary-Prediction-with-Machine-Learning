@@ -9,3 +9,4 @@ This dataset was originally taken from the StatLib library at Carnegie Mellon Un
 ## Project Tasks
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
+* Create a salary forecasting model
